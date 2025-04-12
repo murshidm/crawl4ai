@@ -1,10 +1,9 @@
 # Base configuration (not a service, just a reusable config block)
 x-base-config: &base-config
   ports:
-    - "11235:11235"
-    - "8000:8000"
-    - "9222:9222"
-    - "8080:8080"
+    - "18000:8000" # Changed from 8000:8000
+    - "19222:9222" # Changed from 9222:9222
+    - "18080:8080" # Changed from 8080:8080
   environment:
     - CRAWL4AI_API_TOKEN=${CRAWL4AI_API_TOKEN:-}
     - OPENAI_API_KEY=${OPENAI_API_KEY:-}
@@ -19,7 +18,7 @@ x-base-config: &base-config
         memory: 1G
   restart: unless-stopped
   healthcheck:
-    test: ["CMD", "curl", "-f", "http://localhost:11235/health"]
+    test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
     interval: 30s
     timeout: 10s
     retries: 3
@@ -38,7 +37,7 @@ services:
       platforms:
         - linux/amd64
     profiles: ["local-amd64"]
-    <<: *base-config  # extends yerine doğrudan yapılandırmayı dahil ettik
+    <<: *base-config # extends yerine doğrudan yapılandırmayı dahil ettik
 
   crawl4ai-arm64:
     build:
