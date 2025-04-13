@@ -144,8 +144,8 @@ COPY deploy/docker/* ${APP_HOME}/
 HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
     CMD bash -c '\
     MEM=$(free -m | awk "/^Mem:/{print \$2}"); \
-    if [ $MEM -lt 2048 ]; then \
-        echo "⚠️ Warning: Less than 2GB RAM available! Your container might need a memory boost! 🚀"; \
+    if [ $MEM -lt 1024 ]; then \
+        echo "⚠️ Warning: Less than 1GB RAM available! Your container might need a memory boost! 🚀"; \
         exit 1; \
     fi && \
     redis-cli ping > /dev/null && \
