@@ -25,7 +25,8 @@ def test_local_deployment():
     # Test basic crawl
     print("\n=== Testing Basic Crawl ===")
     request = {
-        "urls": ["https://www.unionb.com/credit-cards-offers/"],
+        #"urls": ["https://www.unionb.com/credit-cards-offers/"],
+        "urls": ["https://example.com"],
         "browser_config": {"persistent": True},
         "crawler_config": {}
     }
