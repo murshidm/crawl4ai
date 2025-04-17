@@ -1,0 +1,48 @@
+{
+  "SCB": {
+    "offers": {
+      "offer": [
+        {
+          "name": "Travel to Malaysia with Travel Channel",
+          "title": "Special rates and savings of upto 5% for travel packages to Malaysia",
+          "desc": "Special rates and savings of upto 5% for travel packages to Malaysia with Standard Chartered credit cards",
+          "img": "https://av.sc.com/lk/content/images/lk-travel-channbel-travel-packagesss.jpg",
+          "url": "",
+          "email": "",
+          "startdate": "20-03-2025 00:00:00",
+          "enddate": "31-12-2025 23:59:00",
+          "terms": "<ul>...</ul>",
+          "merchant": [
+            {
+              "name": "Travel Channel",
+              "address": "No. 2 1, 1 Maradana Rd, Colombo 00800, Sri Lanka",
+              "lat": 6.91924366198874,
+              "lon": 79.8732418829603,
+              "tel": null
+            }
+          ]
+        },
+        {
+          "name": "Swipe and Save at China Duty Free!",
+          "title": "Earn a cashback of 3% with Standard Chartered cards",
+          "desc": "Earn a cashback of 3% (upto a max of USD 10) on the minimum bill value of USD 200 with Standard Chartered cards",
+          "img": "https://av.sc.com/lk/content/images/lk-china-duty-fressve.jpg",
+          "url": "",
+          "email": "",
+          "startdate": "20-03-2025 00:00:00",
+          "enddate": "31-08-2025 23:59:00",
+          "terms": "1. This offer is valid only for holders of Standard Chartered credit/debit cards issued in Sri Lanka.",
+          "merchant": [
+            {
+              "name": "China Duty Free",
+              "address": "Port City Colombo",
+              "lat": 6.93181032686234,
+              "lon": 79.8401466355819,
+              "tel": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

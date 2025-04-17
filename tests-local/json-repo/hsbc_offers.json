@@ -1,0 +1,48 @@
+{
+  "HSBC": {
+    "offers": {
+      "offer": [
+        {
+          "name": "Dine in and save 20% at Chambers!",
+          "title": "Save 20% when you dine in at Chambers with Standard Chartered credit cards",
+          "desc": "Save 20% when you dine in at Chambers with Standard Chartered credit cards",
+          "img": "https://av.sc.com/lk/content/images/lk-tgl-chamddbers.jpg",
+          "url": "",
+          "email": "",
+          "startdate": "10-03-2025 00:00:00",
+          "enddate": "30-04-2025 23:59:00",
+          "terms": "<ul>...</ul>",
+          "merchant": [
+            {
+              "name": "Chambers",
+              "address": "48 D Park St, Colombo 002",
+              "lat": 6.92039196325094,
+              "lon": 79.8585368,
+              "tel": null
+            }
+          ]
+        },
+        {
+          "name": "Save upto 20% at Sober Social Colombo!",
+          "title": "Save upto 20% at Sober Social Colombo with Standard Chartered credit cards",
+          "desc": "Save 20% with Standard Chartered Visa Infinite credit cards and save 10% with Standard Chartered Visa Gold, Rewards and Journey credit cards",
+          "img": "https://av.sc.com/lk/content/images/lk-sober-soddcial.jpg",
+          "url": "",
+          "email": "",
+          "startdate": "14-03-2025 00:00:00",
+          "enddate": "30-04-2025 23:59:00",
+          "terms": "<ul>...</ul>",
+          "merchant": [
+            {
+              "name": "Sober Social Colombo",
+              "address": "Arcade, Independence Ave, Colombo 00700",
+              "lat": 6.90272074565816,
+              "lon": 79.8684291894264,
+              "tel": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "NTB": {
+    "offers": {
+      "offer": [
+        {
+          "name": "Savings of 25% at The Plains Green!",
+          "title": "Savings of 25% on standard room rates for bookings at The Plains Green with Standard Chartered credit cards",
+          "desc": "Savings of 25% on standard room rates for bookings at The Plains Green with Standard Chartered credit cards",
+          "img": "https://av.sc.com/lk/content/images/lk-the-plains-grddeen.jpg",
+          "url": "",
+          "email": "",
+          "startdate": "14-03-2025 00:00:00",
+          "enddate": "31-03-2025 23:59:00",
+          "terms": "<ul>...</ul>",
+          "merchant": [
+            {
+              "name": "The Plains Green",
+              "address": "No 156, Kande Ela, Meepilimana, Ambewela, Nuwara Eliya",
+              "lat": 6.90586663207573,
+              "lon": 80.7905221134917,
+              "tel": null
+            }
+          ]
+        },
+        {
+          "name": "Save upto 15% at Wattura Resort & Spa!",
+          "title": "Enjoy 15% savings at Wattura Resort & Spa with Standard Chartered credit cards.",
+          "desc": "Enjoy a 15% saving at Wattura Resort & Spa for bookings made on suites, Food & Beverages, Spa services and a further 25% savings on Gin Oya kayak rides. *T&C Apply",
+          "img": "https://av.sc.com/lk/content/images/lk-wattura-resort-spamarch.jpg",
+          "url": "",
+          "email": "",
+          "startdate": "05-03-2025 00:00:00",
+          "enddate": "15-12-2025 23:59:00",
+          "terms": "<ul>...</ul>",
+          "merchant": [
+            {
+              "name": "Wattura Resort & Spa",
+              "address": "1271 Kammala South Road, Waikkal 61110",
+              "lat": 7.29044826310705,
+              "lon": 79.8414867473631,
+              "tel": null
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -50,7 +50,7 @@ def main():
         url = f"http://localhost:{API_PORT}/crawl"
         headers = {"Content-Type": "application/json"}
         payload = {
-            "urls": ["https://news.ycombinator.com/"],
+            "urls": ["https://example.com"],
             "browser_config": {
                 "type": "BrowserConfig",
                 "params": {

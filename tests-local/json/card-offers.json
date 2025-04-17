@@ -1,0 +1,1357 @@
+{
+    "offers": {
+        "offer": [
+            {
+                "id": 90457,
+                "uid": 90457,
+                "name": "Travel to Malaysia with Travel Channel",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Special rates and savings of upto 5% for travel packages to Malaysia",
+                "odesc": "Special rates and savings of upto 5% for travel packages to Malaysia with Standard Chartered credit cards",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-travel-channbel-travel-packagesss.jpg",
+                "url": "",
+                "email": "",
+                "sd": "20-03-2025 00:00:00",
+                "ed": "31-12-2025 23:59:00",
+                "tnc": "<ul>\r\n \t<li>This offer is valid only for holders of Standard Chartered credit cards issued in Sri Lanka.<\/li>\r\n \t<li>This offer is valid until 31 December 2025.<\/li>\r\n \t<li>0% Instalment Payment Plans up to 12 months are applicable.<\/li>\r\n \t<li>The minimum transaction value to convert to instalments is LKR25,000.<\/li>\r\n \t<li>The transaction must be converted at the Merchantâ€™s outlet (Please speak to the Cashier\/Outlet Manager â€“ Call &amp; Convert is not allowed).<\/li>\r\n \t<li>This offer is applicable for selected items available at any Travel Channel outlet.<\/li>\r\n \t<li>This offer cannot be used in conjunction with other offers\/promotions available at Travel Channel.<\/li>\r\n \t<li>Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.<\/li>\r\n \t<li>Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.<\/li>\r\n \t<li>Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.<\/li>\r\n \t<li>If any dispute arises, the decision of Standard Chartered and Travel Channel will be considered as final.<\/li>\r\n \t<li>Other general credit card Terms &amp; Conditions will continue to apply.<\/li>\r\n<\/ul>",
+                "all_categories": {
+                    "rest-relax": {
+                        "travel": []
+                    }
+                },
+                "cat": "rest-relax",
+                "sbcat": "travel",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Travel Channel",
+                        "add": "No. 2 1, 1 Maradana Rd, Colombo 00800, Sri Lanka",
+                        "lat": 6.91924366198874,
+                        "lon": 79.8732418829603,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": false
+            },
+            {
+                "id": 90451,
+                "uid": 90451,
+                "name": "Swipe and Save at China Duty Free!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Earn a cashback of 3% with Standard Chartered cards",
+                "odesc": "Earn a cashback of 3% (upto a max of USD 10) on the minimum bill value of USD 200 with Standard Chartered cards",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-china-duty-fressve.jpg",
+                "url": "",
+                "email": "",
+                "sd": "20-03-2025 00:00:00",
+                "ed": "31-08-2025 23:59:00",
+                "tnc": "1. This offer is valid only for holders of Standard Chartered credit\/debit cards issued in Sri Lanka.\r\n2. This offer is valid until 31 August 2025 at China Duty Free, Port City.\r\n3. Maximum discount apllicable USD 10, Minimum bill value USD 200.\r\n4. The card holder(s) must settle the total bill via their Standard Chartered credit\/debit card to be eligible for the discount offered when making reservations.\r\n5. These offers cannot be exchanged for cash and\/or used in conjunction with any other promotional programs or offers provided by the relevant establishments involved in this promotion.\r\n6. These offers cannot be combined with any other promotion or pre-confirmed bookings.\r\n7. Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.\r\n8. Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.\r\n9. Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.\r\n10. If any dispute arises, the decision of China Duty Free and Visa will be considered as final.\r\n11. Other general credit card Terms &amp; Conditions will continue to apply.",
+                "all_categories": {
+                    "online": {
+                        "retail-online": []
+                    }
+                },
+                "cat": "online",
+                "sbcat": "retail-online",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "China Duty Free",
+                        "add": "Port City Colombo",
+                        "lat": 6.93181032686234,
+                        "lon": 79.8401466355819,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": false
+            },
+            {
+                "id": 90261,
+                "uid": 90261,
+                "name": "Dine in and save 20% at Chambers!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Save 20% when you dine in at Chambers with Standard Chartered credit cards",
+                "odesc": "Save 20% when you dine in at Chambers with Standard Chartered credit cards",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-tgl-chamddbers.jpg",
+                "url": "",
+                "email": "",
+                "sd": "10-03-2025 00:00:00",
+                "ed": "30-04-2025 23:59:00",
+                "tnc": "â€¢ This offer is valid only for holders of Standard Chartered credit cards issued in Sri Lanka.\r\nâ€¢ This offer is valid from 10 March 2025 to 30 April 2025, at Chambers.\r\nâ€¢ Maximum bill value LKR 40,000 (Discount LKR 8,000).\r\nâ€¢ The card holder(s) must settle the total bill via their Standard Chartered credit card to be eligible for the discount offered when making reservations.\r\nâ€¢ These offers cannot be exchanged for cash and\/or used in conjunction with any other promotional programs or offers provided by the relevant establishments involved in this promotion.\r\nâ€¢ These offers cannot be combined with any other promotion or pre-confirmed bookings.\r\nâ€¢ Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.\r\nâ€¢ Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.\r\nâ€¢ Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.\r\nâ€¢ If any dispute arises, the decision of Standard Chartered and Chambers will be considered as final.\r\nâ€¢ Other general credit card Terms &amp; Conditions will continue to apply.",
+                "all_categories": {
+                    "online": {
+                        "dining-online": []
+                    }
+                },
+                "cat": "online",
+                "sbcat": "dining-online",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Chambers",
+                        "add": "48 D Park St, Colombo 002",
+                        "lat": 6.92039196325094,
+                        "lon": 79.8585368,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 90265,
+                "uid": 90265,
+                "name": "Save upto 20% at Sober Social Colombo!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Save upto 20% at Sober Social Colombo with Standard Chartered credit cards",
+                "odesc": "Save 20% with Standard Chartered Visa Infinite credit cards and save 10% with Standard Chartered Visa Gold, Rewards and Journey credit cards",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-sober-soddcial.jpg",
+                "url": "",
+                "email": "",
+                "sd": "14-03-2025 00:00:00",
+                "ed": "30-04-2025 23:59:00",
+                "tnc": "1. This offer is valid only for holders of Standard Chartered credit cards issued in Sri Lanka.\r\n2. This offer is valid from 14 March 2025 to 30 April 2025, at Sober Social, Colombo.\r\n3. The card holder(s) must settle the total bill via their Standard Chartered credit card to be eligible for the discount offered when making reservations.\r\n4. These offers cannot be exchanged for cash and\/or used in conjunction with any other promotional programs or offers provided by the relevant establishments involved in this promotion.\r\n5. These offers cannot be combined with any other promotion or pre-confirmed bookings.\r\n6. Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.\r\n7. Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.\r\n8. Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.\r\n9. If any dispute arises, the decision of Standard Chartered and Sober Social, Colombo will be considered as final.\r\n10. Other general credit card Terms &amp; Conditions will continue to apply.",
+                "all_categories": {
+                    "online": {
+                        "dining-online": []
+                    }
+                },
+                "cat": "online",
+                "sbcat": "dining-online",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Sober Social Colombo",
+                        "add": "Arcade, Independence Ave, Colombo 00700",
+                        "lat": 6.90272074565816,
+                        "lon": 79.8684291894264,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 90269,
+                "uid": 90269,
+                "name": "Savings of 25% at The Plains Green!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Savings of 25% on standard room rates for bookings at The Plains Green with Standard Chartered credit cards",
+                "odesc": "Savings of 25% on standard room rates for bookings at The Plains Green with Standard Chartered credit cards",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-the-plains-grddeen.jpg",
+                "url": "",
+                "email": "",
+                "sd": "14-03-2025 00:00:00",
+                "ed": "31-03-2025 23:59:00",
+                "tnc": "â€¢ This offer is valid only for holders of Standard Chartered credit cards issued in Sri Lanka.\r\nâ€¢ This offer is valid 01 to 31 March 2025.\r\nâ€¢ This offer is valid for bookings on standard room rates at The Plains Green.\r\nâ€¢ This offer cannot be used in conjunction with any other offers available at The Plains Green.\r\nâ€¢ Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.\r\nâ€¢ Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.\r\nâ€¢ Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.\r\nâ€¢ If any dispute arises, the decision of Standard Chartered and Ramya Horticulture Ambewela (Private) Limited will be considered as final.\r\nâ€¢ Other general credit card Terms &amp; Conditions will continue to apply.",
+                "all_categories": {
+                    "rest-relax": {
+                        "hotel-stay": []
+                    }
+                },
+                "cat": "rest-relax",
+                "sbcat": "hotel-stay",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "The Plains Green",
+                        "add": "No 156, Kande Ela, Meepilimana, Ambewela, Nuwara Eliya",
+                        "lat": 6.90586663207573,
+                        "lon": 80.7905221134917,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 90164,
+                "uid": 90164,
+                "name": "Save upto 15% at Wattura Resort & Spa!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy 15% savings at Wattura Resort & Spa with Standard Chartered credit cards.",
+                "odesc": "Enjoy a 15% saving at Wattura Resort &amp; Spa for bookings made on suites, Food &amp; Bevarages, Spa services and a further 25% savings on Gin Oya kayak rides. *T&amp;C Apply",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-wattura-resort-spamarch.jpg",
+                "url": "",
+                "email": "",
+                "sd": "05-03-2025 00:00:00",
+                "ed": "15-12-2025 23:59:00",
+                "tnc": "â€¢ This offer is valid only for holders of Standard Chartered credit cards issued in Sri Lanka.\r\nâ€¢ This offer is valid from 20 February to 15 December 2025.\r\nâ€¢ This offer is only valid for suites and is subject to availability at the time of booking.\r\nâ€¢ This offer cannot be used in conjunction with other offers\/promotions available at Wattura Resort &amp; Spa.\r\nâ€¢ Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.\r\nâ€¢ Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.\r\nâ€¢ Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.\r\nâ€¢ If any dispute arises, the decision of Standard Chartered and Wattura Resort &amp; Spa will be considered as final.\r\nâ€¢ Other general credit card Terms &amp; Conditions will continue to apply.",
+                "all_categories": {
+                    "rest-relax": {
+                        "hotel-stay": []
+                    }
+                },
+                "cat": "rest-relax",
+                "sbcat": "hotel-stay",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Wattura Resort & Spa",
+                        "add": "1271 Kammala South Road, Waikkal 61110",
+                        "lat": 7.29044826310705,
+                        "lon": 79.8414867473631,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 90155,
+                "uid": 90155,
+                "name": "Dining offer at the Blue Water Wadduwa!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy 15% savings at The Blue Water Wadduwa",
+                "odesc": "Enjoy a 15% discount on dining at Dragon Boat Restaurant, Admirals Room Restaurant, and Seven Seas Coffee Shop, located at The Blue Water, Wadduwa with Standard Chartered credit cards",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-the-blue-water-wadduwamarch.jpg",
+                "url": "",
+                "email": "",
+                "sd": "05-03-2025 00:00:00",
+                "ed": "30-04-2025 23:59:00",
+                "tnc": "â€¢ This offer is valid only for holders of Standard Chartered credit cards issued in Sri Lanka.\r\nâ€¢ This offer is valid from 1st March 2025 to 30th April 2025, at Dragon Boat Restaurant, Admirals Room Restaurant, and Seven Seas Coffee Shop, located at The Blue Water Wadduwa.\r\nâ€¢ The card holder(s) must settle the total bill via their Standard Chartered credit card to be eligible for the discount offered when making reservations.\r\nâ€¢ These offers cannot be exchanged for cash and\/or used in conjunction with any other promotional programs or offers provided by the relevant establishments involved in this promotion.\r\nâ€¢ These offers cannot be combined with any other promotion or pre-confirmed bookings.\r\nâ€¢ Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.\r\nâ€¢ Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.\r\nâ€¢ Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.\r\nâ€¢ If any dispute arises, the decision of Standard Chartered and The Blue Water, Wadduwa will be considered as final.\r\nâ€¢ Other general credit card Terms &amp; Conditions will continue to apply.",
+                "all_categories": {
+                    "online": {
+                        "dining-online": []
+                    }
+                },
+                "cat": "online",
+                "sbcat": "dining-online",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "The Blue Water Wadduwa",
+                        "add": "Thalpitiya Bridge, Wadduwa 12560",
+                        "lat": 6.67797853657116,
+                        "lon": 79.9204010308833,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 90159,
+                "uid": 90159,
+                "name": "0% Instalment Payment Plans!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy 0% Instalment Payment Plans up to 12 months at Vision Care!",
+                "odesc": "Enjoy 0% Instalment Payment Plans up to 12 months at Vision Care outlets for all Standard Chartered credit cards. T&amp;C Apply.",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-vision-caremarch.jpg",
+                "url": "",
+                "email": "",
+                "sd": "05-03-2025 00:00:00",
+                "ed": "31-12-2025 23:59:00",
+                "tnc": "â€¢ This offer is valid only for holders of Standard Chartered credit cards issued in Sri Lanka.\r\nâ€¢ This offer is valid until 31 December 2025.\r\nâ€¢ 0% Instalment Payment Plans up to 12 months are applicable.\r\nâ€¢ The minimum transaction value to convert to instalments is LKR25,000.\r\nâ€¢ The transaction must be converted at the Merchantâ€™s outlet (Please speak to the Cashier\/Outlet Manager â€“ Call &amp; Convert is not allowed).\r\nâ€¢ This offer is applicable for selected items available at any Vision Care outlet.\r\nâ€¢ This offer cannot be used in conjunction with other offers\/promotions available at Vision Care.\r\nâ€¢ Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.\r\nâ€¢ Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.\r\nâ€¢ Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.\r\nâ€¢ If any dispute arises, the decision of Standard Chartered and Vision Care will be considered as final.\r\nâ€¢ Other general credit card Terms &amp; Conditions will continue to apply.",
+                "all_categories": {
+                    "retail": []
+                },
+                "cat": "retail",
+                "sbcat": false,
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Vision Care",
+                        "add": "No. 06, Ward Place, Colombo 07",
+                        "lat": 6.91730988376336,
+                        "lon": 79.8669361873154,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 90077,
+                "uid": 90077,
+                "name": "Enjoy savings of upto 15% and 0% Instalment Payment Plans up to 12 months at Quantum Fitness!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy savings of 15% for credit cards, 10% for debit cards and 0% Instalment Payment Plans up to 12 months at Quantum Fitness!",
+                "odesc": "Enjoy a savings of 15% for credit card, 10% for debit card transactions and enjoy the ease of converting your credit card transactions of LKR 25,000 and above into 0% Instalment Payment Plans up to 12 months at Quantum Fitness!",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-quantum-fitnessmarch.jpg",
+                "url": "",
+                "email": "",
+                "sd": "05-03-2025 00:00:00",
+                "ed": "31-03-2025 23:59:00",
+                "tnc": "â€¢ This offer is valid only for holders of Standard Chartered credit cards issued in Sri Lanka.\r\nâ€¢ This offer is valid until 31 December 2025.\r\nâ€¢ 0% Instalment Payment Plans up to 12 months are applicable.\r\nâ€¢ The minimum transaction value to convert to instalments is LKR25,000.\r\nâ€¢ The transaction must be converted at the Merchantâ€™s outlet (Please speak to the Cashier\/Outlet Manager â€“ Call &amp; Convert is not allowed).\r\nâ€¢ This offer is applicable for selected items available at any Quantum Fitness outlet and www.quantum.lk.\r\nâ€¢ This offer cannot be used in conjunction with other offers\/promotions available at Quantum Fitness.\r\nâ€¢ Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.\r\nâ€¢ Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.\r\nâ€¢ Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.\r\nâ€¢ If any dispute arises, the decision of Standard Chartered and Quantum Fitness will be considered as final.\r\nâ€¢ Other general credit card Terms &amp; Conditions will continue to apply.",
+                "all_categories": {
+                    "rest-relax": {
+                        "lifestyle": []
+                    }
+                },
+                "cat": "rest-relax",
+                "sbcat": "lifestyle",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Quantum Fitness",
+                        "add": "No. 82, Galle Road, Colombo 04",
+                        "lat": 6.89132389139261,
+                        "lon": 79.8560819239885,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 90062,
+                "uid": 90062,
+                "name": "Travel with Findmyfare!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy savings of upto 20% at selected airlines along with 0% Instalment Payment Plans up to 12 months.",
+                "odesc": "Enjoy a saving of 20% at Emirates and a saving of 15% at other selected airlines, for Standard Chartered credit and debit cards (offer code: SCB20). 0% Instalment Payment Plans up to 12 months are also available for Standard Chartered credit cards. Visit <a href=\"http:\/\/www.findmyfare.com\">www.findmyfare.com<\/a> or call 0117247365 to place your bookings. T&amp;C apply.",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-fmf-airlines-march.jpg",
+                "url": "",
+                "email": "",
+                "sd": "05-03-2025 00:00:00",
+                "ed": "30-04-2025 23:59:00",
+                "tnc": "â€¢ This offer is valid only for holders of Standard Chartered credit and debit cards issued in Sri Lanka (Instalment Payment Plans are only valid for credit cards).\r\nâ€¢ A discount of 20% is applicable for bookings made through Emirates Airlines and a discount of 15% is applicable for bookings made through other airlines (exclusions apply).\r\nâ€¢ This offer is not valid for Indigo Airlines, Air Asia, Fits Air, Air Arabia and Jazeera Airways.\r\nâ€¢ This offer is not valid for travel to Chennai\r\nâ€¢ This offer is valid for tickets purchased from 1st March 2025 to 30th April 2025.\r\nâ€¢ Travel before 31st December 2025.\r\nâ€¢ This offer is applicable for multi-city bookings as well.\r\nâ€¢ This offer is applicable only for return air ticket purchases.\r\nâ€¢ This offer cannot be combined with any other existing offers.\r\nâ€¢ The discount is applied only on the base fare of the air ticket price excluding all applicable taxes &amp; surcharges.\r\nâ€¢ All tickets &amp; bookings will be subject to availability at the time of booking and will be governed by the standard airline terms &amp; conditions.\r\nâ€¢ This offer is valid for bookings made through www.findmyfare.com or by calling 0117247365.\r\nâ€¢ 0% Instalment Payment Plans up to 12 months are applicable for the any transactions above LKR 50,000 (call 0112480480 to convert).\r\nâ€¢ This offer cannot be used in conjunction with other offers\/promotions available at Findmyfare.\r\nâ€¢ Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.\r\nâ€¢ Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.\r\nâ€¢ Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.\r\nâ€¢ If any dispute arises, the decision of Standard Chartered and Findmyfare.com will be considered as final.\r\nâ€¢ Other general credit card Terms &amp; Conditions will continue to apply.",
+                "all_categories": {
+                    "rest-relax": {
+                        "travel": []
+                    }
+                },
+                "cat": "rest-relax",
+                "sbcat": "travel",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Findmyfare",
+                        "add": "26, Jaya Road, Colombo 06",
+                        "lat": 6.886741971,
+                        "lon": 79.8555588590495,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 89748,
+                "uid": 89748,
+                "name": "Get an exclusive 3D2N Suite offer at The Edison!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Get an exclusive 3D2N Suite offer at The Edison with your SC credit or debit card.",
+                "odesc": "A meticulously restored Colonial mansion set in the heart of historical George Town, Penang - a Lifestyle Hotel awaits to be discovered. Offering a combination of luxurious comfort, exceptional guest service and gracious hospitality, it is where one can truly Experience the Exceptional.\r\n\r\nContact +6042622990 or send an email to wecare-GT@theedisonhotels.com for bookings, and mention the promo code \"TEGT x Visa\".",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-the-edisonsaxas.jpg",
+                "url": "",
+                "email": "",
+                "sd": "27-02-2025 00:00:00",
+                "ed": "31-10-2025 23:59:00",
+                "tnc": "â€¢ This offer is valid for holders of Standard Chartered credit and debit cards issued in Sri Lanka.\r\nâ€¢ This offer is valid until 31 October 2025.\r\nâ€¢ The booking period is until 1 November 2025.\r\nâ€¢ The merchant is the sole provider of all goods and\/or services under this offer and solely responsible for this offer. The offer details as shown are based on information provided by the merchant.\r\nâ€¢ The merchant reserves the right to update or modify any of the terms and conditions at any time. In the event of any updates or changes being made, the revised terms and conditions will be posted on the merchantâ€™s website at least 1 week before they take effect.\r\nâ€¢ This offer is valid on normal priced items only.\r\nâ€¢ This offer cannot be exchanged for cash and is not valid in conjunction with other offers or vouchers unless otherwise stated.\r\nâ€¢ No cash alternatives or refunds will be offered in lieu of the offer.\r\nâ€¢ This offer is valid for 3 days and 2 nights in Suites for RM950 per room per night (the normal price is RM1,250 per room per night - 2025).\r\nâ€¢ This offer is valid for direct bookings via call in, email or walk-in only.\r\nâ€¢ Please contact +6042622990 or send an email to wecare-GT@theedisonhotels.com for bookings.\r\nâ€¢ Complimentary lunch from The Edison George Town Penang for 2 pax at Laksalicious which is a 7 minute walk from the hotel. Address: 117A, Jalan Hutton, George Town, 10050 George Town, Pulau Pinang.\r\nâ€¢ Other general credit card Terms &amp; Conditions will continue to apply.",
+                "all_categories": {
+                    "rest-relax": {
+                        "hotel-stay": []
+                    }
+                },
+                "cat": "rest-relax",
+                "sbcat": "hotel-stay",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "The Edison George Town Penang",
+                        "add": "The Edison George Town Penang, 15, Lebuh Leith, George Town, George Town, Penang",
+                        "lat": 5.420767025186,
+                        "lon": 100.3348213423,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 89750,
+                "uid": 89750,
+                "name": "Special savings at Bertram Resort Water Park!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy savings of 30% on normal-priced adult tickets at with your SC credit or debit card.",
+                "odesc": "Bertam Resort &amp; Waterpark is a luxurious getaway located in Bertam, Malaysia. It combines serene resort accommodations with family-friendly fun, featuring a vibrant waterpark complete with thrilling slides, lazy rivers, and pools for all ages. The resort offers modern rooms and villas, lush landscaping, dining options with local and international cuisine and leisure facilities like a spa and fitness center. Itâ€™s an ideal destination for both relaxation and excitement, perfect for families, couples, groups looking to unwind or enjoy the adventurous water activities.",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-bertram-waterpardssk.jpg",
+                "url": "",
+                "email": "",
+                "sd": "27-02-2025 00:00:00",
+                "ed": "31-12-2025 23:59:00",
+                "tnc": "â€¢ This offer is valid for holders of Standard Chartered credit and debit cards issued in Sri Lanka.\r\nâ€¢ This offer is valid until 31 December 2025.\r\nâ€¢ The merchant is the sole provider of all goods and\/or services under this offer and solely responsible for this offer. The offer details as shown are based on information provided by the merchant.\r\nâ€¢ The merchant reserves the right to update or modify any of the terms and conditions at any time. In the event of any updates or changes being made, the revised terms and conditions will be posted on the merchantâ€™s website at least 1 week before they take effect.\r\nâ€¢ This offer is valid on normal-priced items only.\r\nâ€¢ This offer cannot be exchanged for cash and is not valid in conjunction with other offers or vouchers unless otherwise stated.\r\nâ€¢ No cash alternatives or refunds will be offered in lieu of the offer.\r\nâ€¢ This offer is valid for adult tickets only.\r\nâ€¢ This price is subject to 8% SST.\r\nâ€¢ Bertam Water Park is closed on Wednesdays, except for Malaysian School Holidays and public holidays.\r\nâ€¢ This offer cannot be combined with other promotions.\r\nâ€¢ Other general credit card Terms &amp; Conditions will continue to apply.",
+                "all_categories": {
+                    "lifestyle-category": []
+                },
+                "cat": "lifestyle-category",
+                "sbcat": false,
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Bertam Resort Water Park",
+                        "add": "PMT 2200, Persiaran Bertam 08, Kepala Batas, Penang 13200",
+                        "lat": 5.519508819179,
+                        "lon": 100.4533084056,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 89752,
+                "uid": 89752,
+                "name": "Dining offer at Pyro!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Get an exclusive chef's 7-course selection menu for two with your SC credit or debit card.",
+                "odesc": "Pyro, where the ancient art of cooking with wood and fire meets modern culinary innovation. Nestled in an ambiance designed for the discerning middle-upper class, Pyro offers a unique dining experience that tantalizes the senses and elevates your palate. Their menu showcases a symphony of flavors created by the skillful mastery of fire, resulting in dishes that are charbroiled to perfection, infusing every bite with a smoky, delectable essence. Immerse yourself in a journey of taste and ambiance that transcends the ordinary, where the crackling flames and the art of wood-fired cooking merge to create an unforgettable culinary adventure.\r\n\r\nThe 7-course meal includes:\r\n\r\nâ€¢ 2 pcs of Warm Oyster\r\nâ€¢ 2 pcs of Tataki\/ Hamachi\r\nâ€¢ 1 pc of Seaside Deep\r\nâ€¢ 1 plate of Seaclam\r\nâ€¢ Dish of the Day (choice of Fish\/Uni or Scallop Somen)\r\nâ€¢ 150g Mayura\r\nâ€¢ Dessert of the Day",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-tgl-pyrosda.jpg",
+                "url": "",
+                "email": "",
+                "sd": "27-02-2025 00:00:00",
+                "ed": "14-06-2025 23:59:00",
+                "tnc": "â€¢ This offer is valid for holders of Standard Chartered credit and debit cards issued in Sri Lanka.\r\nâ€¢ This offer is valid until 31 December 2025.\r\nâ€¢ The merchant is the sole provider of all goods and\/or services under this offer and solely responsible for this offer. The offer details as shown are based on information provided by the merchant.\r\nâ€¢ The merchant reserves the right to update or modify any of the terms and conditions at any time. In the event of any updates or changes being made, the revised terms and conditions will be posted on merchantâ€™s website at least 1 week before they take effect.\r\nâ€¢ This offer is valid on normal-priced items only.\r\nâ€¢ This offer cannot be exchanged for cash and is not valid in conjunction with other offers or vouchers unless otherwise stated.\r\nâ€¢ No cash alternatives or refunds will be offered in lieu of the offer.\r\nâ€¢ Get an exclusive Chef's 7-course Selection Menu for two at only RM488.00 (originally RM580.00).\r\nâ€¢ The 7-course meal includes:\r\nâ€¢ 2 pcs of Warm Oyster\r\nâ€¢ 2 pcs of Tataki\/ Hamachi\r\nâ€¢ 1 pc of Seaside Deep\r\nâ€¢ 1 plate of Seaclam\r\nâ€¢ Dish of the Day (choice of Fish\/ Uni or Scallop Somen)\r\nâ€¢ 150g Mayura\r\nâ€¢ Dessert of the Day\r\nâ€¢ Other general credit card Terms &amp; Conditions will continue to apply.",
+                "all_categories": {
+                    "dining": []
+                },
+                "cat": "dining",
+                "sbcat": false,
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Pyro",
+                        "add": "44, Jalan SS20\/10, Damansara Kim, Petaling Jaya, Selangor 47400",
+                        "lat": 3.135044096487,
+                        "lon": 101.6289160199,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 89753,
+                "uid": 89753,
+                "name": "Special packages at Ponderosa Golf & Country Club!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy exclusive stay & play packages with your SC credit or debit card.",
+                "odesc": "Ponderosa Golf &amp; Country Club is situated within a vibrant township that is Taman Molek, surrounded by shopping, dining and other attractions and yet tucked away as a golf and leisure getaway. Ponderosa Golf &amp; Country Resort is located within 20 minutesâ€™ drive from Johor Bahru city centre and the Causeway to Singapore.\r\n\r\nThe 18-hole, par 72 golf course at Ponderosa was designed as a natural course surrounded by lush, tropical green-scape that offer both physical challenges as well as visual treats of the city skyline gracing the horizon.\r\n\r\nPonderosa is not just about Golf, but also about lifestyle, well-being and fitness.\r\n\r\nCall\/WhatsApp +60197900501 or send an email to enquiry@ponderosagolf.com for bookings. Mention \"PAY BY VISA\" and pay with your Standard Chartered credit or debit card.",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-ponderosa-gold-clubwdwd.jpg",
+                "url": "",
+                "email": "",
+                "sd": "27-02-2025 00:00:00",
+                "ed": "31-12-2025 23:59:00",
+                "tnc": "â€¢ This offer is valid for holders of Standard Chartered credit and debit cards issued in Sri Lanka.\r\nâ€¢ This offer is valid until 31 December 2025.\r\nâ€¢ The merchant is the sole provider of all goods and\/or services under this offer and solely responsible for this offer. The offer details as shown are based on information provided by the merchant.\r\nâ€¢ The merchant reserves the right to update or modify any of the terms and conditions at any time. In the event of any updates or changes being made, the revised terms and conditions will be posted on the merchantâ€™s website at least 1 week before they take effect.\r\nâ€¢ This offer is valid on normal-priced items only.\r\nâ€¢ This offer cannot be exchanged for cash and is not valid in conjunction with other offers or vouchers unless otherwise stated.\r\nâ€¢ No cash alternatives or refunds will be offered in lieu of the discount.\r\nâ€¢ Packages:\r\n\r\nPackage A (Weekdays): RM339+ (normal price RM369+)\r\nâ€¢ Play 18-holes\r\nâ€¢ Standard room + breakfast for 2 persons\r\n\r\nPackage B (Full Board Weekdays): RM589+ (normal price RM689+)\r\nâ€¢ Play 36-holes\r\nâ€¢ Standard room + breakfast, lunch &amp; dinner for 2 persons\r\n\r\nPackage C (Full Board Weekends): RM1,688+ (normal price RM1,988+)\r\nâ€¢ Play 36-holes\r\nâ€¢ Standard room + breakfast, lunch &amp; dinner for 4 persons\r\n\r\nâ€¢ Other general credit card Terms &amp; Conditions will continue to apply.",
+                "all_categories": {
+                    "rest-relax": {
+                        "hotel-stay": []
+                    }
+                },
+                "cat": "rest-relax",
+                "sbcat": "hotel-stay",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Ponderosa Golf & Country Club",
+                        "add": "03, Jalan Ponderosa 01, Taman Ponderosa, Johor Bahru, Johor 81100",
+                        "lat": 1.512955039913,
+                        "lon": 103.78417500484,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 89756,
+                "uid": 89756,
+                "name": "Special savings at Encore Melaka!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy exclusived savings on adult tickets with your SC credit or debit card.",
+                "odesc": "Encore Melaka Theatre is located at the cityâ€™s waterfront, it will be the jewel in the crown of the IMPRESSION CITY tourist-centric resort development and the future cultural landmark of Melaka.\r\n\r\nDesigned by Chinaâ€™s state-owned Beijing Institute of Architectural Design, the state-of-the-art theatre will seat more than 2,000 people on a one-of-a-kind 360-degree rotating platform.\r\n\r\nRedemption Instructions:\r\n\r\nAsk for your Visa Privileges and pay with your Standard Chartered credit or debit card.",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-encore-melakadwd.jpg",
+                "url": "",
+                "email": "",
+                "sd": "27-02-2025 00:00:00",
+                "ed": "31-12-2025 23:59:00",
+                "tnc": "â€¢ This offer is valid for holders of Standard Chartered credit and debit cards issued in Sri Lanka.\r\nâ€¢ This offer is valid until 31 December 2025.\r\nâ€¢ The merchant is the sole provider of all goods and\/or services under this offer and solely responsible for this offer. The offer details as shown are based on information provided by the merchant.\r\nâ€¢ The merchant reserves the right to update or modify any of the terms and conditions at any time. In the event of any updates or changes being made, the revised terms and conditions will be posted on the merchantâ€™s website at least 1 week before they take effect.\r\nâ€¢ This offer is valid on normal-priced items only.\r\nâ€¢ This offer cannot be exchanged for cash and is not valid in conjunction with other offers or vouchers unless otherwise stated.\r\nâ€¢ No cash alternatives or refunds will be offered in lieu of the offer.\r\nâ€¢ This offer is valid for walk-in only.\r\nâ€¢ This offer is valid for adult tickets only. Price as follows:\r\n1. Malaysian at RM68.00 (was RM78.00)\r\n2. Non-Malaysian at RM138.00 (was RM158.00)\r\nâ€¢ Other general credit card Terms &amp; Conditions will continue to apply.",
+                "all_categories": {
+                    "lifestyle-category": []
+                },
+                "cat": "lifestyle-category",
+                "sbcat": false,
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Encore Melaka",
+                        "add": "Impression City, No. 03, Jalan KSB Impression 08, Kota Syahbandar, Melaka, Melaka 75200",
+                        "lat": 2.187374563055,
+                        "lon": 2.187374563055,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 89758,
+                "uid": 89758,
+                "name": "Special savings at The Pines Melaka!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy savings of 10% on selected rooms with your SC credit or debit card.",
+                "odesc": "THE PINES MELAKA offers an extensive range of room categories and well-appointed suites to suit every guestâ€™s preference and purpose. From smaller rooms to more spacious family suites, and from conference conveniences to recreational facilities, they seek to cater to your needs and demands.\r\n\r\nRedemption Instructions:\r\n\r\nEmail reservation@thepines-melaka.com for bookings and mention TPMVISA25 to avail this offer.\r\n\r\nFor more information, please visit https:\/\/www.thepines-melaka.com, contact +6062402323 or email sales@thepines-melaka.com \/ reservation@thepines-melaka.com.",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-tgls-the-pinessax.jpg",
+                "url": "",
+                "email": "",
+                "sd": "27-02-2025 00:00:00",
+                "ed": "31-12-2025 23:59:00",
+                "tnc": "Terms and Conditions\r\n\r\nâ€¢ This offer is valid for holders of Standard Chartered credit and debit cards issued in Sri Lanka.\r\nâ€¢ This offer is valid until 31 December 2025.\r\nâ€¢ The merchant is the sole provider of all goods and\/or services under this offer and solely responsible for this offer. The offer details as shown are based on information provided by the merchant.\r\nâ€¢ The merchant reserves the right to update or modify any of the terms and conditions at any time. In the event of any updates or changes being made, the revised terms and conditions will be posted on the merchantâ€™s website at least 1 week before they take effect.\r\nâ€¢ This offer is valid on normal-priced items only.\r\nâ€¢ This offer cannot be exchanged for cash and is not valid in conjunction with other offers or vouchers unless otherwise stated.\r\nâ€¢ No cash alternatives or refunds will be offered in lieu of the discount.\r\nâ€¢ Complimentary room upgrades are valid for a minimum of 2-night stays, for selected rooms only.\r\na. Junior Suite City View to Junior Suite Heritage View\r\nb. Executive Room City View to Executive Room Heritage View\r\nâ€¢ This offer is subject to availability.\r\nâ€¢ Mandatory local government taxes such as 8% SST apply.\r\nâ€¢ Additional charges include a 10% service charge, Melaka Heritage Tax (RM2.00) per room per night, and Tourism Tax (RM10.00) per room per night for non-Malaysian guests.\r\nâ€¢ Other general credit card Terms &amp; Conditions will continue to apply.",
+                "all_categories": {
+                    "rest-relax": {
+                        "hotel-stay": []
+                    }
+                },
+                "cat": "rest-relax",
+                "sbcat": "hotel-stay",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "The Pines Melaka",
+                        "add": "The Pines Melaka, 33, Jalan Tun Sri Lanang, Bandaraya Melaka, Malacca 75100",
+                        "lat": 2.2050700290267,
+                        "lon": 102.252196391194,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 89760,
+                "uid": 89760,
+                "name": "Special savings at TUI BLUE The Haven Ipoh!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy savings of 10% on F&B and selected rooms with your SC credit or debit card.",
+                "odesc": "TUI BLUE The Haven Ipoh Nestled within a tranquil limestone hill landscape, TUI BLUE The Haven Ipoh offers an unparalleled escape into nature and luxury. Located just a short drive from Ipoh city, the resort is surrounded by lush forests, pristine lakes, and iconic rock formations, creating a serene and breathtaking environment.\r\n\r\nTheir all-suite resort is designed to offer guests the ultimate in comfort and relaxation. Each suite is spacious, well-appointed, and comes with stunning views of the lake or forest. Guests can indulge in an array of amenities, including their infinity pool overlooking the limestone hills, a fully equipped gym, a luxurious spa, and diverse dining options at their signature restaurant, Cuisines, where international and local flavors meet.\r\n\r\nRedemption Instructions:\r\n\r\nVisit https:\/\/tuibluethehavenipoh.com\/, enter promo code \"VISA\" and pay with your Standard Chartered credit or debit card.",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-tui-blueasx.jpg",
+                "url": "",
+                "email": "",
+                "sd": "27-02-2025 00:00:00",
+                "ed": "30-11-2025 23:59:00",
+                "tnc": "â€¢ This offer is valid for holders of Standard Chartered credit and debit cards issued in Sri Lanka.\r\nâ€¢ This offer is valid until 30 November 2025.\r\nâ€¢ The merchant is the sole provider of all goods and\/or services under this offer and solely responsible for this offer. The offer details as shown are based on information provided by the merchant.\r\nâ€¢ The merchant reserves the right to update or modify any of the terms and conditions at any time. In the event of any updates or changes being made, the revised terms and conditions will be posted on the merchantâ€™s website at least 1 week before they take effect.\r\nâ€¢ This offer is valid on normal-priced items only.\r\nâ€¢ This offer cannot be exchanged for cash and is not valid in conjunction with other offers or vouchers unless otherwise stated.\r\nâ€¢ No cash alternatives or refunds will be offered in lieu of the offer.\r\nâ€¢ This offer is applicable for 1 Bedroom Deluxe Suite Lakeview, 3 Bedroom Deluxe Suite Lakeview and 3 Bedroom Executive Suite Lakeview only.\r\nâ€¢ The rates are inclusive of 10% charges and 8% service tax.\r\nâ€¢ Free breakfast for children below 6 (1-5 years old), one (1) child in a 1 bedroom, and maximum two (2) children in any 2 bedroom and above.\r\nâ€¢ Additional breakfast for adults at RM68.00 per pax, juniors (6-11 years of age) \/ seniors (65 years of age and above) at RM58.00 nett per pax.\r\nâ€¢ Extra bed at RM138.00 nett per unit per night including breakfast (maximum of 1 unit is allowed per suite).\r\nâ€¢ A tourism tax of RM10 per suite per night will apply for non-Malaysian guests.\r\nâ€¢ The booking is subject to availability and advance reservation is advisable.\r\nâ€¢ Blackout dates apply.\r\nâ€¢ Enjoy savings of 10% on food and beverages (not including alcoholic and promotional items).\r\nâ€¢ Other general credit card Terms &amp; Conditions will continue to apply.",
+                "all_categories": {
+                    "rest-relax": {
+                        "hotel-stay": []
+                    }
+                },
+                "cat": "rest-relax",
+                "sbcat": "hotel-stay",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "TUI BLUE The Haven Ipoh",
+                        "add": "Persiaran Lembah Perpaduan, 31150 Ipoh, Perak, Malaysia",
+                        "lat": 4.63743051095297,
+                        "lon": 101.162717398371,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 88984,
+                "uid": 88984,
+                "name": "Savings with Fitness First!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy a saving of 25% along with 0% Instalment Payment Plans at Fitness First.",
+                "odesc": "Enjoy a saving of 25% on annual memberships along with 0% Instalment Payment Plans up to 12 months at Fitness First, with your SC credit card. T&amp;C apply.",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-tgl-fitness-firdst.jpg",
+                "url": "",
+                "email": "",
+                "sd": "07-02-2025 00:00:00",
+                "ed": "31-03-2025 23:59:00",
+                "tnc": "<ul>\r\n \t<li>This offer is valid only for holders of Standard Chartered credit cards issued in Sri Lanka.<\/li>\r\n \t<li>This offer is valid until 31 March 2025.<\/li>\r\n \t<li>This offer is valid only for annual memberships purchased at Fitness First.<\/li>\r\n \t<li>This offer is valid at the following Fitness First outlets: Colombo 07, Colombo 01 Moors Club, World Trade Center, and Ja Ela.<\/li>\r\n \t<li>0% Instalment Payment Plan up to 12 months are applicable for any transactions above LKR50,000 (Call &amp; Convert).<\/li>\r\n \t<li>This offer cannot be used in conjunction with other offers\/promotions available at Fitness First.<\/li>\r\n \t<li>Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.<\/li>\r\n \t<li>Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.<\/li>\r\n \t<li>Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.<\/li>\r\n \t<li>If any dispute arises, the decision of Standard Chartered and Fitness First will be considered as final.<\/li>\r\n \t<li>Other general credit card Terms &amp; Conditions will continue to apply.<\/li>\r\n<\/ul>",
+                "all_categories": {
+                    "retail": {
+                        "health": []
+                    }
+                },
+                "cat": "retail",
+                "sbcat": "health",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Fitness First",
+                        "add": "No. 42, Maitland Crescent, Colombo 07",
+                        "lat": 6.90832282282002,
+                        "lon": 79.8653123821597,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 88986,
+                "uid": 88986,
+                "name": "Formula 1 Singapore Grand Prix!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Special travel package for the Formula 1 Singapore Grand Prix.",
+                "odesc": "Special travel package to the Formula 1 Singapore Grand Prix along with 0% Instalment Payment Plans up to 18 months with your SC credit card. T&amp;C apply.\r\n\r\nInclusions:\r\nâ€¢ Visa on arrival\r\nâ€¢ 3 nightsâ€™ accommodation at a 3-star hotel in Singapore\r\nâ€¢ Round-trip to the airport - Hotel transfer based on private basis\r\nâ€¢ Zone 4 walkabout\r\nâ€¢Formula 1 ticket for 3 days (upgrade available)\r\n\r\nThe package starts from LKR247,000 (3 nights and 4 days), per person on double occupancy basis\r\n\r\nBook before 30 June 2025 and travel between 3 to 6 October 2025",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-tgl-classic-travel-singadpore-fone.jpg",
+                "url": "",
+                "email": "",
+                "sd": "07-02-2025 00:00:00",
+                "ed": "30-06-2025 23:59:00",
+                "tnc": "<ul>\r\n \t<li>This offer is valid only for holders of Standard Chartered credit cards issued in Sri Lanka.<\/li>\r\n \t<li>0% Instalment Payment Plans are applicable up to 18 months.<\/li>\r\n \t<li>The minimum transaction value to convert is LKR50,000 (Call &amp; Convert).<\/li>\r\n \t<li>Book before 30 June 2025 and travel between 3 to 6 October 2025.<\/li>\r\n \t<li>In order to enjoy the promotion, the full payment needs to be settled with a Standard Chartered credit card.<\/li>\r\n \t<li>Please note that rates are on first-come first-serve basis and rates will not be valid for certain dates. For blackout dates passengers will have to check with Classic Travel.<\/li>\r\n \t<li>The cardholder understands and agrees that date changes shall be permitted with additional charges as per the then rate of the airline, however the cardholder shall not be able to do any changes to the ticket within 24- 36 hours prior to departure.<\/li>\r\n \t<li>The cardholder will be liable to bear the charges in terms of rescheduling or cancellation of packages at any given time.<\/li>\r\n \t<li>The package price and package inclusions are fixed and for any amendments or additions, the cardholder must bear additional charges.<\/li>\r\n \t<li>This offer will be applicable only for the mentioned package.<\/li>\r\n \t<li>Airline penalties may apply for any other changes.<\/li>\r\n \t<li>The travel should originate from Sri Lanka.\r\nâ€¢ The passenger must be the cardholder to obtain the package.\r\nâ€¢ All tickets and bookings will be subject to availability at the time of booking and will be governed by the standard airline and travel partner terms &amp; conditions.\r\nâ€¢ Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.\r\nâ€¢ Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.\r\nâ€¢ Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.\r\nâ€¢ If any dispute arises, the decision of Standard Chartered and Classic Travel will be considered as final.\r\nâ€¢ Other general credit card Terms &amp; Conditions will continue to apply.<\/li>\r\n<\/ul>",
+                "all_categories": {
+                    "rest-relax": {
+                        "travel": []
+                    }
+                },
+                "cat": "rest-relax",
+                "sbcat": "travel",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Classic Travel",
+                        "add": "No. 379\/4, Galle Road, Colombo 03",
+                        "lat": 6.90507359867771,
+                        "lon": 79.8574998385405,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 88992,
+                "uid": 88992,
+                "name": "Travel to Kilimanjaro!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Special travel package to Kilimanjaro.",
+                "odesc": "Special travel package to Kilimanjaro along with 0% Instalment Payment Plans up to 18 months with your SC credit card. T&amp;C apply.\r\n\r\nInclusions:\r\nâ€¢ International air tickets\r\nâ€¢ Accommodation in a star-class hotel in Moshi\r\nâ€¢ 8 day Lemosho route trek to the summit\r\nâ€¢ 24\/7 professional guides and emergency support\r\nâ€¢ Rescue insurance\r\nâ€¢ Airport transfers, unlimited drinking water and more!\r\n\r\nThe package starts from LKR1,490,000 (minimum of 10 pax are required)\r\n\r\nBook before 30 June 2025 and travel between 5 to 16 August 2025",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-tgl-classic-travel-kilimandjaro.jpg",
+                "url": "",
+                "email": "",
+                "sd": "07-02-2025 00:00:00",
+                "ed": "30-06-2025 23:59:00",
+                "tnc": "<ul>\r\n \t<li>This offer is valid only for holders of Standard Chartered credit cards issued in Sri Lanka.<\/li>\r\n \t<li>0% Instalment Payment Plans are applicable up to 18 months.<\/li>\r\n \t<li>The minimum transaction value to convert is LKR50,000 (Call &amp; Convert).<\/li>\r\n \t<li>Book before 30 June 2025 and travel between 5 to 16 August 2025.<\/li>\r\n \t<li>In order to enjoy the promotion, the full payment needs to be settled with a Standard Chartered credit card.<\/li>\r\n \t<li>Please note that rates are on first-come first-serve basis and rates will not be valid for certain dates. For blackout dates passengers will have to check with Classic Travel.<\/li>\r\n \t<li>The cardholder understands and agrees that date changes shall be permitted with additional charges as per the then rate of the airline, however the cardholder shall not be able to do any changes to the ticket within 24- 36 hours prior to departure.<\/li>\r\n \t<li>The cardholder will be liable to bear the charges in terms of rescheduling or cancellation of packages at any given time.<\/li>\r\n \t<li>The package price and package inclusions are fixed and for any amendments or additions, the cardholder must bear additional charges.<\/li>\r\n \t<li>This offer will be applicable only for the mentioned package.<\/li>\r\n \t<li>Airline penalties may apply for any other changes.<\/li>\r\n \t<li>The travel should originate from Sri Lanka.<\/li>\r\n \t<li>The passenger must be the cardholder to obtain the package.<\/li>\r\n \t<li>All tickets and bookings will be subject to availability at the time of booking and will be governed by the standard airline and travel partner terms &amp; conditions.<\/li>\r\n \t<li>Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.<\/li>\r\n \t<li>Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.<\/li>\r\n \t<li>Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.<\/li>\r\n \t<li>If any dispute arises, the decision of Standard Chartered and Classic Travel will be considered as final.<\/li>\r\n \t<li>Other general credit card Terms &amp; Conditions will continue to apply.<\/li>\r\n<\/ul>",
+                "all_categories": {
+                    "rest-relax": {
+                        "travel": []
+                    }
+                },
+                "cat": "rest-relax",
+                "sbcat": "travel",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Classic Travel",
+                        "add": "No. 379\/4, Galle Road, Colombo 03",
+                        "lat": 6.90507359867771,
+                        "lon": 79.8574998385405,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 89006,
+                "uid": 89006,
+                "name": "Savings at The Blue Water Wadduwa!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy 25% savings at The Blue Water Wadduwa.",
+                "odesc": "Enjoy 25% savings for stays at The Blue Water Wadduwa with SC credit cards. This offer is valid for bookings until 31 March 2025. Call 0773876579 for more details. T&amp;C apply.",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-tgl-the-blue-water-waddduwa.jpg",
+                "url": "",
+                "email": "",
+                "sd": "07-02-2025 00:00:00",
+                "ed": "31-03-2025 23:59:00",
+                "tnc": "<ul>\r\n \t<li>This offer is valid only for holders of Standard Chartered credit cards issued in Sri Lanka.<\/li>\r\n \t<li>This offer is valid until 31 March 2025.<\/li>\r\n \t<li>The card holder(s) must settle the total bill via their Standard Chartered credit card to be eligible for the discount offered when making reservations.<\/li>\r\n \t<li>This offer cannot be exchanged for cash and\/or used in conjunction with any other promotional programs or offers provided by The Blue Water Wadduwa.<\/li>\r\n \t<li>This offer cannot be combined with any other promotion or pre-confirmed bookings.<\/li>\r\n \t<li>The child policy covers children between the ages of 3 to 11.<\/li>\r\n \t<li>LKR7,500 per child, per night will be charged on Full Board basis.<\/li>\r\n \t<li>Cancellation Policy: 100% chargeable if the booking is canceled 14 days prior to check-in.<\/li>\r\n \t<li>If a reservation is canceled after full payment is made (even if it is outside the cancellation period), the amount paid will be held as a credit which can be utilized for a reservation on a future date decided unanimously by the client and the hotel.<\/li>\r\n \t<li>Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.<\/li>\r\n \t<li>Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.<\/li>\r\n \t<li>Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.<\/li>\r\n \t<li>If any dispute arises, the decision of Standard Chartered and The Blue Water Wadduwa will be considered as final.<\/li>\r\n \t<li>Other general credit card Terms &amp; Conditions will continue to apply.<\/li>\r\n<\/ul>",
+                "all_categories": {
+                    "rest-relax": {
+                        "hotel-stay": []
+                    }
+                },
+                "cat": "rest-relax",
+                "sbcat": "hotel-stay",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "The Blue Water, Wadduwa",
+                        "add": "Thalpitiya Bridge, Wadduwa, 12560",
+                        "lat": 6.67797341847278,
+                        "lon": 79.9204391986972,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 89010,
+                "uid": 89010,
+                "name": "0% Instalment Payment Plans!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy 0% Instalment Payment Plans up to 12 months at Vogue Jewellers!",
+                "odesc": "Enjoy 0% Instalment Payment Plans up to 12 months at Vogue Jewellers showrooms for all Standard Chartered credit cards. T&amp;C Apply.",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-tgl-vogue-jewellders.jpg",
+                "url": "",
+                "email": "",
+                "sd": "07-02-2025 00:00:00",
+                "ed": "31-12-2025 23:59:00",
+                "tnc": "<ul>\r\n \t<li>This offer is valid only for holders of Standard Chartered credit cards issued in Sri Lanka.<\/li>\r\n \t<li>This offer is valid until 31 December 2025.<\/li>\r\n \t<li>0% Instalment Payment Plans up to 12 months are applicable.<\/li>\r\n \t<li>The minimum transaction value to convert to instalments is LKR25,000.<\/li>\r\n \t<li>The transaction must be converted at the Merchantâ€™s outlet (Please speak to the Cashier\/Outlet Manager â€“ Call &amp; Convert is not allowed).<\/li>\r\n \t<li>This offer is applicable for selected items available at any Vogue Jewellers showroom.<\/li>\r\n \t<li>This offer cannot be used in conjunction with other offers\/promotions available at Vogue Jewellers.<\/li>\r\n \t<li>Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.<\/li>\r\n \t<li>Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.<\/li>\r\n \t<li>Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.<\/li>\r\n \t<li>If any dispute arises, the decision of Standard Chartered and Vogue Jewellers will be considered as final.<\/li>\r\n \t<li>Other general credit card Terms &amp; Conditions will continue to apply.<\/li>\r\n<\/ul>",
+                "all_categories": {
+                    "retail": {
+                        "jewellery": []
+                    }
+                },
+                "cat": "retail",
+                "sbcat": "jewellery",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Vogue Jewellers",
+                        "add": "No. 528, Galle Road, Colombo 03",
+                        "lat": 6.90275774122699,
+                        "lon": 79.8523669527514,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 88629,
+                "uid": 88629,
+                "name": "0% Instalment Payment Plans!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy 0% Instalment Payment Plans up to 12 months at Celltronics!",
+                "odesc": "Enjoy 0% Instalment Payment Plans up to 12 months at Celltronics showrooms for all Standard Chartered credit cards. T&amp;C Apply.",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-tgl-offer-celltronics.jpg",
+                "url": "",
+                "email": "",
+                "sd": "24-01-2025 00:00:00",
+                "ed": "31-12-2025 23:59:00",
+                "tnc": "<ul>\r\n \t<li>This offer is valid only for holders of Standard Chartered credit cards issued in Sri Lanka.<\/li>\r\n \t<li>This offer is valid until 31 December 2025.<\/li>\r\n \t<li>0% Instalment Payment Plans up to 12 months are applicable.<\/li>\r\n \t<li>The minimum transaction value to convert to instalments is LKR25,000.<\/li>\r\n \t<li>The transaction must be converted at the Merchantâ€™s outlet (Please speak to the Cashier\/Outlet Manager â€“ Call &amp; Convert is not allowed).<\/li>\r\n \t<li>This offer is applicable for selected items available at any Celltronics showroom.<\/li>\r\n \t<li>This offer cannot be used in conjunction with other offers\/promotions available at Celltronics.<\/li>\r\n \t<li>Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.<\/li>\r\n \t<li>Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.<\/li>\r\n \t<li>Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.<\/li>\r\n \t<li>If any dispute arises, the decision of Standard Chartered and Celltronics will be considered as final.<\/li>\r\n \t<li>Other general credit card Terms &amp; Conditions will continue to apply.<\/li>\r\n<\/ul>",
+                "all_categories": {
+                    "retail": {
+                        "electronics": []
+                    }
+                },
+                "cat": "retail",
+                "sbcat": "electronics",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Celltronics",
+                        "add": "Level 03, West Block Lobby, World Trade Center, Echelon Square, Colombo 01",
+                        "lat": 6.93278609983546,
+                        "lon": 79.8437475453605,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 88508,
+                "uid": 88508,
+                "name": "Special savings at Amaara Forest Hotel, Sigiriya!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy 30% savings at Amaara Forest Hotel, Sigiriya.",
+                "odesc": "Enjoy 30% savings on accomodation at Amaara Forest Hotel, Sigiriya with your SC credit and debit card. Place your bookings via www.amaarahotels.com (use the offer code: SCBCC). T&amp;C apply.",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-amaara-forest-hotel-sigiriya.jpg",
+                "url": "",
+                "email": "",
+                "sd": "21-01-2025 00:00:00",
+                "ed": "31-03-2025 23:59:00",
+                "tnc": "<ul>\r\n \t<li>This offer is valid only for holders of Standard Chartered credit and debit cards issued in Sri Lanka.<\/li>\r\n \t<li>This offer is valid until 31 March 2025.<\/li>\r\n \t<li>This offer is valid for Full Board and Half Board reservations.<\/li>\r\n \t<li>The booking confirmation is subject to an advance payment of 50%.<\/li>\r\n \t<li>Check-in is at 2pm and check-out is at 11am.<\/li>\r\n \t<li>A link will be sent to the cardholder for the card payment after receiving reconfirmation by return email.<\/li>\r\n \t<li>All reservations will be subject to availability at the time of reservation and will be governed by the standard hotel terms and conditions.<\/li>\r\n \t<li>This offer cannot be used in conjunction with other offers\/promotions available at Amaara Forest Hotel, Sigiriya.<\/li>\r\n \t<li>Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.<\/li>\r\n \t<li>Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.<\/li>\r\n \t<li>Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.<\/li>\r\n \t<li>If any dispute arises, the decision of Standard Chartered and Amaara Hotels will be considered as final.<\/li>\r\n \t<li>Other general credit card Terms &amp; Conditions will continue to apply.<\/li>\r\n<\/ul>",
+                "all_categories": {
+                    "rest-relax": {
+                        "hotel-stay": []
+                    }
+                },
+                "cat": "rest-relax",
+                "sbcat": "hotel-stay",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Amaara Forest Hotel, Sigiriya",
+                        "add": "Indigaswewa, Sigiriya, Dambulla",
+                        "lat": 8.00021090486619,
+                        "lon": 80.7476485049522,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 88510,
+                "uid": 88510,
+                "name": "Special savings at Amaara Sky Hotel, Kandy!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy 30% savings at Amaara Sky Hotel, Kandy.",
+                "odesc": "Enjoy 30% savings on accomodation at Amaara Sky Hotel, Kandy with your SC credit and debit card. Place your bookings via www.amaarahotels.com (use the offer code: SCBCC). T&amp;C apply.",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-amaara-sky-hotel-kansssdy.jpg",
+                "url": "",
+                "email": "",
+                "sd": "21-01-2025 00:00:00",
+                "ed": "31-03-2025 23:59:00",
+                "tnc": "<ul>\r\n \t<li>This offer is valid only for holders of Standard Chartered credit and debit cards issued in Sri Lanka.<\/li>\r\n \t<li>This offer is valid until 31 March 2025.<\/li>\r\n \t<li>This offer is valid for Full Board and Half Board reservations.<\/li>\r\n \t<li>The booking confirmation is subject to an advance payment of 50%.<\/li>\r\n \t<li>Check-in is at 2pm and check-out is at 11am.<\/li>\r\n \t<li>A link will be sent to the cardholder for the card payment after receiving reconfirmation by return email.<\/li>\r\n \t<li>All reservations will be subject to availability at the time of reservation and will be governed by the standard hotel terms and conditions.<\/li>\r\n \t<li>This offer cannot be used in conjunction with other offers\/promotions available at Amaara Sky Hotel, Kandy.<\/li>\r\n \t<li>Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.<\/li>\r\n \t<li>Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.<\/li>\r\n \t<li>Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.<\/li>\r\n \t<li>If any dispute arises, the decision of Standard Chartered and Amaara Hotels will be considered as final.<\/li>\r\n \t<li>Other general credit card Terms &amp; Conditions will continue to apply.<\/li>\r\n<\/ul>",
+                "all_categories": {
+                    "rest-relax": {
+                        "hotel-stay": []
+                    }
+                },
+                "cat": "rest-relax",
+                "sbcat": "hotel-stay",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Amaara Sky Hotel, Kandy",
+                        "add": "A. B. Damunupola Mawatha, Kandy 20000",
+                        "lat": 7.29246207586126,
+                        "lon": 80.6278473067897,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 88515,
+                "uid": 88515,
+                "name": "0% Instalment Payment Plans!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy 0% Instalment Payment Plans up to 12 months at Damro!",
+                "odesc": "Enjoy 0% Instalment Payment Plans up to 12 months at Damro showrooms for all Standard Chartered credit cards. T&amp;C Apply.",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-tgls-damfffro.jpg",
+                "url": "",
+                "email": "",
+                "sd": "21-01-2025 00:00:00",
+                "ed": "31-12-2025 23:59:00",
+                "tnc": "<ul>\r\n \t<li>This offer is valid only for holders of Standard Chartered credit cards issued in Sri Lanka.<\/li>\r\n \t<li>This offer is valid until 31 December 2025.<\/li>\r\n \t<li>0% Instalment Payment Plans up to 12 months are applicable.<\/li>\r\n \t<li>The minimum transaction value to convert to instalments is LKR25,000.<\/li>\r\n \t<li>The transaction must be converted at the Merchantâ€™s outlet (Please speak to the Cashier\/Outlet Manager â€“ Call &amp; Convert is not allowed).<\/li>\r\n \t<li>This offer is applicable for selected items available at any Damro showroom.<\/li>\r\n \t<li>This offer cannot be used in conjunction with other offers\/promotions available at Damro.<\/li>\r\n \t<li>Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.<\/li>\r\n \t<li>Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.<\/li>\r\n \t<li>Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.<\/li>\r\n \t<li>If any dispute arises, the decision of Standard Chartered and Damro will be considered as final.<\/li>\r\n \t<li>Other general credit card Terms &amp; Conditions will continue to apply.<\/li>\r\n<\/ul>",
+                "all_categories": {
+                    "online": {
+                        "retail-online": []
+                    }
+                },
+                "cat": "online",
+                "sbcat": "retail-online",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Damro",
+                        "add": "No. 361, Kandy Road, Nittambuwa",
+                        "lat": 7.14006225184603,
+                        "lon": 80.0937987681398,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 88519,
+                "uid": 88519,
+                "name": "International Hotel Bookings with Findmyfare!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy a saving of 20% along with 0% Instalment Payment Plans on International Hotel Bookings.",
+                "odesc": "Enjoy a saving of 20% for International Hotel Bookings through Findmyfare, with your SC credit and debit card. 0% Instalment Payment Plans up to 12 months are also available with your SC credit card. Call 0117 247 365 to place your bookings. T&amp;C apply.",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-fmf-international-hotffffels.jpg",
+                "url": "",
+                "email": "",
+                "sd": "21-01-2025 00:00:00",
+                "ed": "31-12-2025 23:59:00",
+                "tnc": "<ul>\r\n \t<li>This offer is valid only for holders of Standard Chartered credit and debit cards issued in Sri Lanka (Instalment Payment Plans are only valid for credit cards).<\/li>\r\n \t<li>This offer is valid until 31 December 2025.<\/li>\r\n \t<li>The 20% saving is given on the room rates excluding the taxes.<\/li>\r\n \t<li>A minimum of 2 nights should be purchased to avail this promotion.<\/li>\r\n \t<li>This offer is valid only for reservations made by calling 0117 247 365.<\/li>\r\n \t<li>In order to enjoy the promotion, the full payment needs to be settled with Findmyfare.<\/li>\r\n \t<li>All reservations will be subject to availability at the time of reservation and will be governed by the standard hotel terms &amp; conditions.<\/li>\r\n \t<li>This offer valid is only on room rate of the reservation.<\/li>\r\n \t<li>This offer cannot be combined with any other existing offers, vouchers, rebates and privileges.<\/li>\r\n \t<li>Findmyfare terms and conditions shall apply.<\/li>\r\n \t<li>0% Instalment Payment Plans up to 12 months are applicable for transactions above LKR 50,000 (Call &amp; Convert).<\/li>\r\n \t<li>This offer cannot be used in conjunction with other offers\/promotions available at Findmyfare.<\/li>\r\n \t<li>Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.<\/li>\r\n \t<li>Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.<\/li>\r\n \t<li>Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.<\/li>\r\n \t<li>If any dispute arises, the decision of Standard Chartered and Findmyfare.com will be considered as final.<\/li>\r\n \t<li>Other general credit card Terms &amp; Conditions will continue to apply.<\/li>\r\n<\/ul>",
+                "all_categories": {
+                    "rest-relax": {
+                        "hotel-stay": []
+                    }
+                },
+                "cat": "rest-relax",
+                "sbcat": "hotel-stay",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Findmyfare",
+                        "add": "26, Jaya Road, Colombo 06",
+                        "lat": 6.88674197132232,
+                        "lon": 79.8555588590495,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 88388,
+                "uid": 88388,
+                "name": "0% Instalment Payment Plans!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy 0% Instalment Payment Plans up to 12 months at Travel Channel!",
+                "odesc": "Enjoy 0% Instalment Payment Plans up to 12 months at Travel Channel for all Standard Chartered credit cards. T&amp;C Apply.",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-tgl-travel-channel.jpg",
+                "url": "",
+                "email": "",
+                "sd": "09-01-2025 00:00:00",
+                "ed": "31-12-2025 23:59:00",
+                "tnc": "<ul>\r\n \t<li>This offer is valid only for holders of Standard Chartered credit cards issued in Sri Lanka.<\/li>\r\n \t<li>This offer is valid until 31 December 2025.<\/li>\r\n \t<li>0% Instalment Payment Plans up to 12 months are applicable.<\/li>\r\n \t<li>The minimum transaction value to convert to instalments is LKR25,000.<\/li>\r\n \t<li>The transaction must be converted at the Merchantâ€™s outlet (Please speak to the Cashier\/Outlet Manager â€“ Call &amp; Convert is not allowed).<\/li>\r\n \t<li>This offer is applicable for selected items available at any Travel Channel outlet.<\/li>\r\n \t<li>This offer cannot be used in conjunction with other offers\/promotions available at Travel Channel.<\/li>\r\n \t<li>Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.<\/li>\r\n \t<li>Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.<\/li>\r\n \t<li>Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.<\/li>\r\n \t<li>If any dispute arises, the decision of Standard Chartered and Travel Channel will be considered as final.<\/li>\r\n \t<li>Other general credit card Terms &amp; Conditions will continue to apply.<\/li>\r\n<\/ul>",
+                "all_categories": {
+                    "rest-relax": {
+                        "travel": []
+                    }
+                },
+                "cat": "rest-relax",
+                "sbcat": "travel",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Travel Channel",
+                        "add": "No. 2 1, 1 Maradana Road, Colombo 08",
+                        "lat": 6.91897293516388,
+                        "lon": 79.8732965401628,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 88284,
+                "uid": 88284,
+                "name": "Travel with Crazy Jets!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy a saving of 15% along with 0% Instalment Payment Plans up to 12 months at Crazy Jets.",
+                "odesc": "Enjoy a saving of 15% on the flight fare component at Crazy Jets when you purchase your air ticket with your SC credit card, along with 0% Instalment Payment Plans up to 12 months (Call &amp; Convert). Visit <a href=\"http:\/\/www.crazyjets.com\">www.crazyjets.com<\/a> to place your booking. T&amp;C apply.",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-tgl-crazy-jetssss.png",
+                "url": "",
+                "email": "",
+                "sd": "09-01-2025 00:00:00",
+                "ed": "30-04-2025 23:59:00",
+                "tnc": "<ul>\r\n \t<li>This offer is valid only for holders of Standard Chartered credit cards issued in Sri Lanka.<\/li>\r\n \t<li>This offer is valid until 31 March 2025.<\/li>\r\n \t<li>The cardholder will receive a saving of up to 15% from the flight fare component for online bookings placed via crazyjets.com.<\/li>\r\n \t<li>The minimum transaction value to convert to instalments is LKR50,000 (Call &amp; Convert).<\/li>\r\n \t<li>This offer is only available for flights departing from Bandaranayke Airport (CMB).<\/li>\r\n \t<li>The promotional bookings purchased cannot be resold.<\/li>\r\n \t<li>The promotional fares are not applicable for infants.<\/li>\r\n \t<li>The bookings need to be made and confirmed at least 3 days prior to departure.<\/li>\r\n \t<li>This offer cannot be used in conjunction with any other promotion.<\/li>\r\n \t<li>The prices are subject to availability and may vary without prior notice.<\/li>\r\n \t<li>The prices are not guaranteed until payment has been made in full, tickets have been issued and received by the customer.<\/li>\r\n \t<li>Bookings are non-refundable unless otherwise specified.<\/li>\r\n \t<li>There are no online booking fees.<\/li>\r\n \t<li>The 15% flight fare saving is not applicable for offline bookings, low-cost airline carriers and everyday low category<\/li>\r\n \t<li>Any amendments or cancellations made following the issuance of a ticket may incur cancellation charges, penalties and a fare difference if applicable.<\/li>\r\n \t<li>Visa, meals, baggage, seat allocation and bassinets are not included unless otherwise specified.<\/li>\r\n \t<li>All travellers must have valid visas including transit visa; passports or re-entry permits as per the regulations of the immigration and other government authorities. Unless otherwise stated by the traveller at the time of booking, it will be assumed that the traveller meets all requirements as stated above. Therefore, any penalties, fines or expenditures incurred as a result of such documents not meeting the requirements of those authorities will be the traveller's sole responsibility.<\/li>\r\n \t<li>Expenses\/losses incurred after the issuance of tickets as a result of flight changes, cancellations, delays, luggage losses, natural disasters, supplier\/airlines insolvency etc. is not covered by Crazy Jets. The passenger is responsible for obtaining travel insurance to cover such circumstances.<\/li>\r\n \t<li>Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.<\/li>\r\n \t<li>Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.<\/li>\r\n \t<li>Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.<\/li>\r\n \t<li>If any dispute arises, the decision of Standard Chartered and Crazy Jets will be considered as final.<\/li>\r\n \t<li>Other general credit card Terms &amp; Conditions will continue to apply.<\/li>\r\n<\/ul>",
+                "all_categories": {
+                    "rest-relax": {
+                        "travel": []
+                    }
+                },
+                "cat": "rest-relax",
+                "sbcat": "travel",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Crazy Jets",
+                        "add": "No. 75, Dr N.M. Perera Mawatha Road, Colombo 08",
+                        "lat": 6.9139403974509,
+                        "lon": 79.8805219324506,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 88257,
+                "uid": 88257,
+                "name": "0% Instalment Payment Plans!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy 0% Instalment Payment Plans up to 12 months at Quantum Fitness!",
+                "odesc": "Enjoy 0% Instalment Payment Plans up to 12 months at all Quantum Fitness outlets and <a href=\"http:\/\/www.quantum.lk\">www.quantum.lk<\/a> for all Standard Chartered credit cards. T&amp;C Apply.",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-tgl-quantum-fitness.jpg",
+                "url": "",
+                "email": "",
+                "sd": "07-01-2025 00:00:00",
+                "ed": "31-12-2025 23:59:00",
+                "tnc": "<ul>\r\n \t<li>This offer is valid only for holders of Standard Chartered credit cards issued in Sri Lanka.<\/li>\r\n \t<li>This offer is valid until 31 December 2025.<\/li>\r\n \t<li>0% Instalment Payment Plans up to 12 months are applicable.<\/li>\r\n \t<li>The minimum transaction value to convert to instalments is LKR25,000.<\/li>\r\n \t<li>The transaction must be converted at the Merchantâ€™s outlet (Please speak to the Cashier\/Outlet Manager â€“ Call &amp; Convert is not allowed).<\/li>\r\n \t<li>This offer is applicable for selected items available at any Quantum Fitness outlet and<a href=\"http:\/\/www.quantum.lk\"> www.quantum.lk<\/a>.<\/li>\r\n \t<li>This offer cannot be used in conjunction with other offers\/promotions available at Quantum Fitness.<\/li>\r\n \t<li>Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.<\/li>\r\n \t<li>Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.<\/li>\r\n \t<li>Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.<\/li>\r\n \t<li>If any dispute arises, the decision of Standard Chartered and Quantum Fitness will be considered as final.<\/li>\r\n \t<li>Other general credit card Terms &amp; Conditions will continue to apply.<\/li>\r\n<\/ul>",
+                "all_categories": {
+                    "retail": {
+                        "health": []
+                    }
+                },
+                "cat": "retail",
+                "sbcat": "health",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Quantum Fitness",
+                        "add": "No. 82, Galle Road, Colombo 04",
+                        "lat": 6.89132389139261,
+                        "lon": 79.8560819239885,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 88240,
+                "uid": 88240,
+                "name": "0% Instalment Payment Plans!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy 0% Instalment Payment Plans up to 12 months at Abans!",
+                "odesc": "Enjoy 0% Instalment Payment Plans up to 12 months at Abans outlets for all Standard Chartered credit cards. T&amp;C Apply.",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-abans-logo-updated.jpg",
+                "url": "",
+                "email": "",
+                "sd": "07-01-2025 00:00:00",
+                "ed": "31-12-2025 23:59:00",
+                "tnc": "<ul>\r\n \t<li>This offer is valid only for holders of Standard Chartered credit cards issued in Sri Lanka.<\/li>\r\n \t<li>This offer is valid until 31 December 2025.<\/li>\r\n \t<li>0% Instalment Payment Plans up to 12 months are applicable.<\/li>\r\n \t<li>The minimum transaction value to convert to instalments is LKR25,000.<\/li>\r\n \t<li>The transaction must be converted at the Merchantâ€™s outlet (Please speak to the Cashier\/Outlet Manager â€“ Call &amp; Convert is not allowed).<\/li>\r\n \t<li>This offer is applicable for selected items available at any Abans outlet.<\/li>\r\n \t<li>This offer cannot be used in conjunction with other offers\/promotions available at Abans.<\/li>\r\n \t<li>Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.<\/li>\r\n \t<li>Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.<\/li>\r\n \t<li>Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.<\/li>\r\n \t<li>If any dispute arises, the decision of Standard Chartered and Abans will be considered as final.<\/li>\r\n \t<li>Other general credit card Terms &amp; Conditions will continue to apply.<\/li>\r\n<\/ul>",
+                "all_categories": {
+                    "retail": []
+                },
+                "cat": "retail",
+                "sbcat": false,
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Abans",
+                        "add": "498, Galle Road, Colombo 03",
+                        "lat": 6.90363937782308,
+                        "lon": 79.8520326910188,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 88202,
+                "uid": 88202,
+                "name": "Instalment Payment Plans with SriLankan Airlines!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy special Instalment Payment Plans with SriLankan Airlines.",
+                "odesc": "Enjoy 0% Instalment Payment Plans up to 12 months with Standard Chartered Visa Platinum SriLankan Airlines credit cards, and special rates of 3.50% for 6 months and 7% for 12 months with other Standard Chartered credit cards.",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-sri-lankan-airlines.jpg",
+                "url": "",
+                "email": "",
+                "sd": "06-01-2025 00:00:00",
+                "ed": "31-03-2025 23:59:00",
+                "tnc": "<ul>\r\n \t<li>This offer is valid only for holders of Standard Chartered credit cards issued in Sri Lanka.<\/li>\r\n \t<li>This offer is valid until 31 March 2025.<\/li>\r\n \t<li>This offer is only valid for purchases made via www.srilankan.com.<\/li>\r\n \t<li>0% Instalment Payment Plan up to 12 months are applicable for transactions done with Standard Chartered Visa Platinum SriLankan Airlines credit cards.<\/li>\r\n \t<li>Instalment Payment Plans with special rates of 3.50% for 6 months and 7% for 12 months are applicable with other Standard Chartered credit cards.<\/li>\r\n \t<li>The minimum transaction value to convert into Instalments is LKR25,000 (Call &amp; Convert).<\/li>\r\n \t<li>This offer cannot be used in conjunction with other offers\/promotions available at SriLankan Airlines.<\/li>\r\n \t<li>Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.<\/li>\r\n \t<li>Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.<\/li>\r\n \t<li>Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.<\/li>\r\n \t<li>If any dispute arises, the decision of Standard Chartered and SriLankan Airlines will be considered as final.<\/li>\r\n \t<li>Other general credit card Terms &amp; Conditions will continue to apply.<\/li>\r\n<\/ul>",
+                "all_categories": {
+                    "rest-relax": {
+                        "travel": []
+                    }
+                },
+                "cat": "rest-relax",
+                "sbcat": "travel",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "SriLankan Airlines",
+                        "add": "Level 3, East Tower, World Trade Centre, Echelon Square, Bank of Ceylon Mawatha, Colombo 01",
+                        "lat": 6.93295779992386,
+                        "lon": 79.8437286086902,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 87880,
+                "uid": 87880,
+                "name": "Instalment Payment Plans with Insureme.lk!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy 0% Instalment Payment Plans up to 12 months at Insureme.lk.",
+                "odesc": "Enjoy 0% Instalment Payment Plans up to 12 months with your SC credit card at Insureme.lk.",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-tgl-logo-insureme.jpg",
+                "url": "",
+                "email": "",
+                "sd": "18-12-2024 00:00:00",
+                "ed": "30-04-2025 23:59:00",
+                "tnc": "<ul>\r\n \t<li>This offer is valid only for holders of Standard Chartered credit cards issued in Sri Lanka.<\/li>\r\n \t<li>This offer is valid until 31 March 2025.<\/li>\r\n \t<li>This offer is only valid for purchases at Insureme.lk.<\/li>\r\n \t<li>0% Instalment Payment Plan up to 12 months are applicable for transactions above LKR50,000 (Call &amp; Convert).<\/li>\r\n \t<li>This offer cannot be used in conjunction with other offers\/promotions available at Insureme.lk.<\/li>\r\n \t<li>Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.<\/li>\r\n \t<li>Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.<\/li>\r\n \t<li>Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.<\/li>\r\n \t<li>If any dispute arises, the decision of Standard Chartered and Insureme.lk will be considered as final.<\/li>\r\n \t<li>Other general credit card Terms &amp; Conditions will continue to apply.<\/li>\r\n<\/ul>",
+                "all_categories": {
+                    "online": []
+                },
+                "cat": "online",
+                "sbcat": false,
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "Insureme.lk",
+                        "add": "No. 14A, Boyd Place, Colombo 03",
+                        "lat": 6.91379007525955,
+                        "lon": 79.8550082250911,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 87688,
+                "uid": 87688,
+                "name": "Instalment Payment Plans with MyFees.lk!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy 0% Instalment Payment Plans up to 12 months at MyFees.lk.",
+                "odesc": "Enjoy 0% Instalment Payment Plans up to 12 months with your SC credit card at MyFees.lk.",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-tgl-my-fees.lk_.jpg",
+                "url": "",
+                "email": "",
+                "sd": "15-12-2024 00:00:00",
+                "ed": "30-04-2025 23:59:00",
+                "tnc": "<ul>\r\n \t<li>This offer is valid only for holders of Standard Chartered credit cards issued in Sri Lanka.<\/li>\r\n \t<li>This offer is valid until 30 April 2025.<\/li>\r\n \t<li>This offer is only valid for purchases done through MyFees.lk.<\/li>\r\n \t<li>Â 0% Instalment Payment Plan up to 12 months are applicable for any transactions above LKR50,000 (Call &amp; Convert).<\/li>\r\n \t<li>This offer cannot be used in conjunction with other offers\/promotions available at MyFees.lk.<\/li>\r\n \t<li>Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.<\/li>\r\n \t<li>Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.<\/li>\r\n \t<li>Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption\/disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.<\/li>\r\n \t<li>If any dispute arises, the decision of Standard Chartered and MyFees.lk will be considered as final.<\/li>\r\n \t<li>Other general credit card Terms &amp; Conditions will continue to apply.<\/li>\r\n<\/ul>",
+                "all_categories": {
+                    "online": []
+                },
+                "cat": "online",
+                "sbcat": false,
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "MyFees.lk",
+                        "add": "No. 32, Park Road, Colombo 05",
+                        "lat": 6.88598342855338,
+                        "lon": 79.8686869123748,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            },
+            {
+                "id": 83966,
+                "uid": 83966,
+                "name": "0% Instalment Payment Plans!",
+                "cn": "lk",
+                "x_cn": "",
+                "otitle": "Enjoy 0% Instalment Payment Plans up to 6 months at GNEXT!",
+                "odesc": "Enjoy 0% Instalment Payment Plans up to 6 months at GNEXT for all Standard Chartered credit cards. T&amp;C Apply.",
+                "oimg": "https:\/\/av.sc.com\/lk\/content\/images\/lk-GNEXT-400x400px.jpeg",
+                "url": "",
+                "email": "",
+                "sd": "14-02-2025 00:00:00",
+                "ed": "31-12-2025 23:59:00",
+                "tnc": "Terms and Conditions\r\n\r\nâ€¢ This offer is valid only for holders of Standard Chartered credit cards issued in Sri Lanka.\r\nâ€¢ This offer is valid until 31 December 2025.\r\nâ€¢ 0% Instalment Payment Plans up to 6 months are applicable.\r\nâ€¢ The minimum transaction value to convert to instalments is LKR25,000.\r\nâ€¢ The transaction must be converted at the Merchantâ€™s outlet (Please speak to the Cashier\/Outlet Manager â€“ Call &amp; Convert is not allowed).\r\nâ€¢ This offer is applicable for selected items available at any GNEXT outlet.\r\nâ€¢ This offer cannot be used in conjunction with other offers\/promotions available at GNEXT.\r\nâ€¢ Standard Chartered will not accept any liability in respect of the goods and services provided by the merchant and for any non-adherence to health &amp; safety guidelines by the merchant.\r\nâ€¢ Standard Chartered reserves the right to amend\/withdraw this offer at its sole discretion with prior notice.\r\nâ€¢ Neither Standard Chartered nor the merchant accepts any liability for the consequences arising out of interruption \/ disruption of its business or services by or on account of but not limited to acts of God, pandemics, riots, civil commotion, insurrections, wars, strikes or lockouts or for any reason beyond their control.\r\nâ€¢ If any dispute arises, the decision of Standard Chartered and GNEXT will be considered as final.\r\nâ€¢ Other general credit card Terms &amp; Conditions will continue to apply.",
+                "all_categories": {
+                    "retail": {
+                        "electronics": []
+                    }
+                },
+                "cat": "retail",
+                "sbcat": "electronics",
+                "visa": true,
+                "visa_card_list": [],
+                "brcode": "",
+                "qrcode": "",
+                "venue": [
+                    {
+                        "name": "GNEXT",
+                        "add": "No. 302, Galle Road, Colombo 04",
+                        "lat": 6.88206451552001,
+                        "lon": 79.8588915742301,
+                        "ophr": null,
+                        "tel": null,
+                        "fax": null
+                    }
+                ],
+                "preview": false,
+                "cache": true
+            }
+        ]
+    }
+}
